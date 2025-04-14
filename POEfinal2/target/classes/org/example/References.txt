@@ -1,0 +1,5 @@
+References 
+
+Java Unit testing setup in IntelliJ , 2024. Random code  Available at: <https://youtu.be/Zi67qUHbq-c?si=3vPTYQaLn_FIY9bC>
+Outlier Playground, available at: <https://app.outlier.ai/playground>, [accessed on: 12/04/2025] 
+Using Asserrtions with Junit, 2021. Anesh Mistry Available at: <https://youtu.be/lPHjo3EWeGA?si=GIilj4RCXuzXGT1m>
