@@ -1,3 +1,4 @@
+//importing dependencies
 package org.example;
 
 import java.util.Scanner;
